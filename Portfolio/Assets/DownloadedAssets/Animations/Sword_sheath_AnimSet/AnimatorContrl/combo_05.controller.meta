@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1e77eb07ea04a818dcc56b043852359
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195119
+  packageName: Sword sheath AnimSet
+  packageVersion: 1.2
+  assetPath: Assets/Sword_sheath_AnimSet/AnimatorContrl/combo_05.controller
+  uploadId: 495187

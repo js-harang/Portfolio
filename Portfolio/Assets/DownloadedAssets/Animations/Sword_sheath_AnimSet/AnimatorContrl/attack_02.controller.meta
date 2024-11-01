@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcac1c14847a4964868e3dfc7b39a5b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195119
+  packageName: Sword sheath AnimSet
+  packageVersion: 1.2
+  assetPath: Assets/Sword_sheath_AnimSet/AnimatorContrl/attack_02.controller
+  uploadId: 495187
